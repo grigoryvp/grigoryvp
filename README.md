@@ -1,4 +1,4 @@
 ### Some of my public talks
 
-* [Забудь слово “ошибка”](https://www.youtube.com/watch?v=5iygkx-XfrY)
-* [Как параноику планировать свою работу](https://www.youtube.com/watch?v=SQ4NAOU5Jso)
+* [Go and write some readable code](https://www.youtube.com/watch?v=a3CuVa6chYs)
+* [Why is Python slow?](https://www.youtube.com/watch?v=gaC0ENaiKc0)
